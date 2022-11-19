@@ -3,8 +3,7 @@
 <div align="center">
       <a href="https://github.com/denysdenis">
            <img height="160em" src="https://github-readme-stats.vercel.app/api?username=denysdenis&theme=github_dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denysdenis&layout=compact&theme=github_dark&langs_count=6"/>
-
+                  
 </div>
   <div style="sisplay: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
